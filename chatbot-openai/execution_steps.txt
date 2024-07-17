@@ -1,0 +1,9 @@
+#### Steps to execute before running the chatbot application:
+
+1. create a virtual environment by executing: conda create -p venv python==3.8 -y
+2. activate the environment by: conda activate venv/
+3. write the requirements.txt
+4. install all the requirements by executing: pip install -r requirements.txt
+5. enter the langchain api key, openai api key and langchain project name in .env file
+6. begin coding the chatbot application
+7. run the application by executing: streamlit run app.py

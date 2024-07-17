@@ -1,0 +1,11 @@
+#### Steps to execute before running the chatbot application:
+
+1. create a virtual environment by executing: conda create -p venv python==3.8 -y
+2. activate the environment by: conda activate venv/
+3. download ollama from ollama.com
+4. in terminal, execute ollama run <model_name>
+5. write the requirements.txt
+6. install all the requirements by executing: pip install -r requirements.txt
+7. enter the langchain api key, openai api key and langchain project name in .env file
+8. begin coding the chatbot application
+9. run the application by executing: streamlit run app.py
