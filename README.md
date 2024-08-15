@@ -1,1 +1,1 @@
-# LLM-Powered-AI-Assistant-Chatbot
+# GenAI-powered-AI-Assistant-Chatbot
